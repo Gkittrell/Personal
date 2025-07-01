@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gilbert Kittrell | Cyber Security</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Gilbert Kittrell</h1>
+    <p>Aspiring Cyber Security Professional</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      My main area of interest is network security, but I also enjoy network engineering.
+      I want to get into network security to help people by protecting systems and data.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>BGP</li>
+      <li>AWS</li>
+      <li>Packet Tracer</li>
+      <li>IT Support</li>
+      <li>Linux</li>
+      <li>Python</li>
+      <li>CSS</li>
+      <li>Network Security</li>
+      <li>ProtoPie</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="your-resume-link.pdf" target="_blank" class="button">Download My Resume</a>
+  </section>
+
+  <footer>
+    <p>Contact: gkittrell84741@uat.edu</p>
+  </footer>
+</body>
+</html>
